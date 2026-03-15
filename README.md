@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет, я Python Backend Developer! 👋
 
-<!--
-**Doctorgth/Doctorgth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Специализируюсь на создании высоконагруженных систем, сетевой безопасности и автоматизации бизнес-процессов.
 
-Here are some ideas to get you started:
+### ⚠️ О моих проектах и коде
+Большая часть моих последних разработок за последние 3 года выполнена в рамках **NDA (закрытые коммерческие и государственные проекты)**. Код является интеллектуальной собственностью и не может быть выложен в открытый доступ. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Однако я всегда готов:**
+- Выполнить тестовое задание любой сложности.
+- Подробно рассказать о стеке и примененных алгоритмах.
+
+### 🚀 Мои ключевые достижения:
+- **Отказоустойчивость:** Спроектировал архитектуру сети с **99.9% uptime** (High Availability) в условиях экстремальной нестабильности.
+- **Оптимизация:** Сократил время обработки данных **в 18 раз** за счет внедрения кастомных OCR-решений.
+- **Масштабируемость:** Реализовал параллельную обработку 30+ видеопотоков в реальном времени.
+
+### 🛠 Технический стек:
+- **Languages:** Python (FastAPI, Flask, Django).
+- **Databases:** PostgreSQL (CTE, Window Functions), SQLAlchemy, Redis.
+- **Networking:** TCP/UDP, Socket programming, MITM-proxy.
+- **ML/CV:** OpenCV, PyTorch, NLP (кластеризация данных).
+- **Tools:** Docker, Docker-compose, RabbitMQ, Celery, Linux, Git.
+
+### 📫 Как со мной связаться:
+- **Telegram:** [@doctor_gth](https://t.me/@doctor_gth)
