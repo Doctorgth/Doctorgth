@@ -65,6 +65,15 @@
 
 ---
 
+### ☕ Поддержать автора / Support
+
+Если мои open-source проекты оказались вам полезны и сэкономили время, вы можете поддержать их разработку:
+
+*   **Boosty:** [boosty.to/doctorgth](https://boosty.to/doctorgth) *(Карты РФ и зарубежные карты)*
+
+
 ### 📫 Контакты для связи
 
 *   **Telegram:** [@doctor_gth](https://t.me/doctor_gth)
+
+  
